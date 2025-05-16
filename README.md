@@ -2,8 +2,8 @@
 
 # converto
 
-A CLI-based tool written in Bash and Batch for Linux and Windows respectively.  
-This project is an excuse for me to experiment with Bash and Batch and how file systems work.
+A CLI-based tool written in rust.
+This project is an excuse for me to experiment with rust and how file systems work.
 
 ---
 
