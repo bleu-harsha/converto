@@ -1,0 +1,12 @@
+[package]
+name = "converto"
+version = "0.1.0"
+edition = "2024"
+authors = ["Blue Harsha"]
+description = "A CLI tool to convert, rename, zip, and check file health."
+license = "MIT"
+repository = "https://github.com/bleu-harsha/converto"
+
+[dependencies]
+colored = "2.0"
+

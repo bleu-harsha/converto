@@ -2,7 +2,9 @@
 
 # converto
 
-A CLI-based tool written in rust.
+![IMAGE](IMAGE.png)
+
+A CLI-based file converter and ziping tool written in rust.
 This project is an excuse for me to experiment with rust and how file systems work.
 
 ---
