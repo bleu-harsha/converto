@@ -1,5 +1,3 @@
-![banner](https://raw.githubusercontent.com/bleu-harsha/converto/refs/heads/main/IMAGE.png)
-
 # converto
 
 ![IMAGE](IMAGE.png)
